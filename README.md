@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/0WRwEYK.png)
 
 
-### Connect with me:
+### Connect with me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -29,6 +29,10 @@
 ### GitHub Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true)
+
+### CodeStats
+
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/AppLoidx)
 
 [twitter]: https://twitter.com/apploidxxx
 [instagram]: https://www.instagram.com/apploid_x
