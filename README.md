@@ -39,3 +39,6 @@
 [instagram]: https://www.instagram.com/apploid_x
 [linkedin]: https://www.linkedin.com/in/kupriyanov-arthur/
 [youtube]: https://www.youtube.com/channel/UC2HkMitR__lenKqpzpjE14g
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
