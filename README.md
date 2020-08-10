@@ -43,5 +43,6 @@
 [linkedin]: https://www.linkedin.com/in/kupriyanov-arthur/
 [youtube]: https://www.youtube.com/channel/UC2HkMitR__lenKqpzpjE14g
 
+<hr/>
+
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
