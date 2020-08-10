@@ -2,7 +2,7 @@
 ![](https://i.imgur.com/0WRwEYK.png)
 
 
-### Connect with me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -11,7 +11,7 @@
 
 <br/>
 
-### Languages and Tools:
+### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -27,11 +27,11 @@
 
 <br/>
 
-### GitHub Stats
+### ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true)
 
-### CodeStats
+### ᴄᴏᴅᴇ ꜱᴛᴀᴛꜱ
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/AppLoidx?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"])
 
