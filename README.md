@@ -11,7 +11,7 @@
 
 <br/>
 
-### ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
+## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
 
 <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -26,13 +26,15 @@
 <img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 
 <br/>
+<br/>
+<br/>
 
-### ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
+## ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true)
 <img height="195px" src="https://media.tenor.com/images/269c21977f7023a9fd2c1db4a6e6ed5e/tenor.gif" />
 
-### ᴄᴏᴅᴇ ꜱᴛᴀᴛꜱ
+## ᴄᴏᴅᴇ ꜱᴛᴀᴛꜱ
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/AppLoidx?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"])
 
@@ -43,5 +45,3 @@
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-<hr/>
