@@ -40,9 +40,9 @@
 <hr/>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com//flouthoc/calc.asm/pull/16) in [flouthoc/calc.asm](https://github.com//flouthoc/calc.asm)
-2. 🗣 Commented on [#16](https://github.com//flouthoc/calc.asm/issues/16) in [flouthoc/calc.asm](https://github.com//flouthoc/calc.asm)
-3. 💪 Opened PR [#17](https://github.com//flouthoc/calc.asm/pull/17) in [flouthoc/calc.asm](https://github.com//flouthoc/calc.asm)
-4. 💪 Opened PR [#16](https://github.com//flouthoc/calc.asm/pull/16) in [flouthoc/calc.asm](https://github.com//flouthoc/calc.asm)
-5. 🗣 Commented on [#90](https://github.com//vandeseer/easytable/issues/90) in [vandeseer/easytable](https://github.com//vandeseer/easytable)
+1. ❌ Closed PR [#16](https://github.com/flouthoc/calc.asm/pull/16) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
+2. 🗣 Commented on [#16](https://github.com/flouthoc/calc.asm/issues/16) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
+3. 💪 Opened PR [#17](https://github.com/flouthoc/calc.asm/pull/17) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
+4. 💪 Opened PR [#16](https://github.com/flouthoc/calc.asm/pull/16) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
+5. 🗣 Commented on [#90](https://github.com/vandeseer/easytable/issues/90) in [vandeseer/easytable](https://github.com/vandeseer/easytable)
 <!--END_SECTION:activity-->
