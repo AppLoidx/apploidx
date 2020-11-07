@@ -1,5 +1,4 @@
-
-![](https://i.imgur.com/w9H2syK.jpeg)
+![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true&theme=synthwave)
 
 
 ### ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
@@ -29,13 +28,6 @@
 
 
 
-<br/>
-<br/>
-<br/>
-
-<h2><br/>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</h2> 
-
-![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true&theme=synthwave)
 
 [twitter]: https://twitter.com/apploidxxx
 [instagram]: https://www.instagram.com/apploid_x
