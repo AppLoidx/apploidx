@@ -35,8 +35,7 @@
 
 <h2><br/>ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ</h2> 
 
-![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true)
-<img height="195px" src="https://media.tenor.com/images/269c21977f7023a9fd2c1db4a6e6ed5e/tenor.gif" />
+![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true&theme=synthwave)
 
 [twitter]: https://twitter.com/apploidxxx
 [instagram]: https://www.instagram.com/apploid_x
