@@ -39,9 +39,9 @@
 <hr/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
-2. 💪 Opened PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
-3. 🎉 Merged PR [#1](https://github.com/AppLoidx/jersey-grizzly-example/pull/1) in [AppLoidx/jersey-grizzly-example](https://github.com/AppLoidx/jersey-grizzly-example)
-4. 💪 Opened PR [#17](https://github.com/flouthoc/calc.asm/pull/17) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
+1. 💪 Opened PR [#17](https://github.com/makehappyinstall/os_labs/pull/17) in [makehappyinstall/os_labs](https://github.com/makehappyinstall/os_labs)
+2. 🎉 Merged PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
+3. 💪 Opened PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
+4. 🎉 Merged PR [#1](https://github.com/AppLoidx/jersey-grizzly-example/pull/1) in [AppLoidx/jersey-grizzly-example](https://github.com/AppLoidx/jersey-grizzly-example)
 5. 💪 Opened PR [#16](https://github.com/flouthoc/calc.asm/pull/16) in [flouthoc/calc.asm](https://github.com/flouthoc/calc.asm)
 <!--END_SECTION:activity-->
