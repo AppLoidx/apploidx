@@ -39,9 +39,9 @@
 <hr/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/makehappyinstall/os_labs/issues/17) in [makehappyinstall/os_labs](https://github.com/makehappyinstall/os_labs)
-2. 💪 Opened PR [#1](https://github.com/salvoronis/memAlloc/pull/1) in [salvoronis/memAlloc](https://github.com/salvoronis/memAlloc)
-3. 💪 Opened PR [#17](https://github.com/makehappyinstall/os_labs/pull/17) in [makehappyinstall/os_labs](https://github.com/makehappyinstall/os_labs)
-4. 🎉 Merged PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
+1. ❗️ Opened issue [#12](https://github.com/Monogatari/Documentation/issues/12) in [Monogatari/Documentation](https://github.com/Monogatari/Documentation)
+2. 🗣 Commented on [#17](https://github.com/makehappyinstall/os_labs/issues/17) in [makehappyinstall/os_labs](https://github.com/makehappyinstall/os_labs)
+3. 💪 Opened PR [#1](https://github.com/salvoronis/memAlloc/pull/1) in [salvoronis/memAlloc](https://github.com/salvoronis/memAlloc)
+4. 💪 Opened PR [#17](https://github.com/makehappyinstall/os_labs/pull/17) in [makehappyinstall/os_labs](https://github.com/makehappyinstall/os_labs)
 5. 💪 Opened PR [#1](https://github.com/AppLoidx/c-http-server/pull/1) in [AppLoidx/c-http-server](https://github.com/AppLoidx/c-http-server)
 <!--END_SECTION:activity-->
