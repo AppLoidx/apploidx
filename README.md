@@ -39,9 +39,9 @@
 <hr/>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/EgorovM/cpp_snake/issues/1) in [EgorovM/cpp_snake](https://github.com/EgorovM/cpp_snake)
-2. ❗️ Closed issue [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
-3. 🗣 Commented on [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
+1. ❗️ Closed issue [#12](https://github.com/Monogatari/Documentation/issues/12) in [Monogatari/Documentation](https://github.com/Monogatari/Documentation)
+2. ❗️ Opened issue [#1](https://github.com/EgorovM/cpp_snake/issues/1) in [EgorovM/cpp_snake](https://github.com/EgorovM/cpp_snake)
+3. ❗️ Closed issue [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
 4. 🗣 Commented on [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
-5. ❗️ Opened issue [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
+5. 🗣 Commented on [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
 <!--END_SECTION:activity-->
