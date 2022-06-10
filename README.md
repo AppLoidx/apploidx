@@ -1,6 +1,7 @@
-![My stats](https://github-readme-stats.vercel.app/api?username=AppLoidx&show_icons=true&count_private=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&no-bg=true&no-frame=true)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark)
 <br/>
 
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
@@ -18,7 +19,7 @@
 <img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
 <br/>
 
 
