@@ -56,7 +56,7 @@
 <h2 align="center">Stats📝</h2>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&no-bg=true&no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=apploidx&theme=onedark&no-bg=true&no-frame=true&row=1)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark)
