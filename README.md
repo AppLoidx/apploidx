@@ -43,7 +43,7 @@
 <br>
 <p align="center">sociaw things</p>
 <p align="center">
- <a href="https://discordapp.com/users287540358714359808" target="_blank"><img src="https://img.shields.io/badge/KAFE_BEiBXX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+ <a href="https://discordapp.com/users/287540358714359808" target="_blank"><img src="https://img.shields.io/badge/KAFE_BEiBXX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 <br/>
   <a href="https://www.youtube.com/channel/UCRxiZRNjSj9ZFdwIe0vXMrw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-YouTube?style=for-the-badge&logo=YouTube&color=red"></a>
 
