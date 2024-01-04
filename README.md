@@ -27,11 +27,12 @@
 <div>
   <br>
 <p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-t?style=for-the-badge&logo=Java&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-t?style=for-the-badge&logo=javascript&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
-<img alt="Static Badge" src="https://img.shields.io/badge/Next-t?style=for-the-badge&logo=next.js&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring-t?style=for-the-badge&logo=spring&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-t?style=for-the-badge&logo=react&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-t?style=for-the-badge&logo=openjdk&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-t?style=for-the-badge&logo=javascript&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Next-t?style=for-the-badge&logo=next.js&color=black">
+<br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring-t?style=for-the-badge&logo=spring&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-t?style=for-the-badge&logo=react&color=black">
 
 </p>
 <br>
@@ -42,8 +43,9 @@
 <br>
 <p align="center">sociaw things</p>
 <p align="center">
- <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/KAFE_BEiBXX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-YouTube?style=for-the-badge&logo=YouTube&color=red"></a>
+ <a href="https://discordapp.com/users287540358714359808" target="_blank"><img src="https://img.shields.io/badge/KAFE_BEiBXX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<br/>
+  <a href="https://www.youtube.com/channel/UCRxiZRNjSj9ZFdwIe0vXMrw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-YouTube?style=for-the-badge&logo=YouTube&color=red"></a>
 
 
 </p>
