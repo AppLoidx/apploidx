@@ -1,3 +1,59 @@
+
+<body>
+<div>
+<h2 align="center"> 🦊 About 🦊 </h2>
+  <div align="center">
+<img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
+  </div>
+<li>
+ <b>Name:</b> Arthur</li>
+<li>
+<b>Loves:</b> anime, neko, FPS, phonk, hyperpop
+</li>
+<li>
+<b>Hobbys:</b> Video & Music Editing
+</li>
+<br><br><br>
+</div>
+<div>
+<h2 align="center">Main Skills 📇</h2>
+ <br>
+<p>
+  <div align="center">
+
+<img src="https://www.icegif.com/wp-content/uploads/2023/03/icegif-1711.gif" align="right" width="300px">
+  </div>
+</div>
+<div>
+  <br>
+<p align="center">
+<img alt="Static Badge" src="https://img.shields.io/badge/Java-t?style=for-the-badge&logo=Java&color=black">
+<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-t?style=for-the-badge&logo=javascript&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
+<img alt="Static Badge" src="https://img.shields.io/badge/Next-t?style=for-the-badge&logo=next.js&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
+<img alt="Static Badge" src="https://img.shields.io/badge/Spring-t?style=for-the-badge&logo=spring&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
+<img alt="Static Badge" src="https://img.shields.io/badge/React-t?style=for-the-badge&logo=react&color=black&link=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCRxiZRNjSj9ZFdwIe0vXMrw">
+
+</p>
+<br>
+<h2 align="center">           Social life? </h2>
+  <div align="center">
+<img src="https://media1.tenor.com/m/ri-Ue99WZ4UAAAAd/angry-cat.gif" align="right" width="300px">
+  </div>
+<br>
+<p align="center">sociaw things</p>
+<p align="center">
+ <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/KAFE_BEiBXX%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-YouTube?style=for-the-badge&logo=YouTube&color=red"></a>
+
+
+</p>
+
+</div>
+<br>
+<div>
+<h2 align="center">Stats📝</h2>
+<div align="center">
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=discord&no-bg=true&no-frame=true)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark)
@@ -20,22 +76,10 @@
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<br/>
-
-
-
-[twitter]: https://twitter.com/apploidxxx
-[instagram]: https://www.instagram.com/apploid_x
-[linkedin]: https://www.linkedin.com/in/kupriyanov-arthur/
-[vk]: https://vk.com/apploidxxx
-
-
-<hr/>
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/mashinakatherina/Circuit_design/issues/4) in [mashinakatherina/Circuit_design](https://github.com/mashinakatherina/Circuit_design)
-2. 🎉 Merged PR [#1](https://github.com/AppLoidx/SoftwareTestingLabWork/pull/1) in [AppLoidx/SoftwareTestingLabWork](https://github.com/AppLoidx/SoftwareTestingLabWork)
-3. 💪 Opened PR [#1](https://github.com/Lenika2000/Testing/pull/1) in [Lenika2000/Testing](https://github.com/Lenika2000/Testing)
-4. ❗️ Opened issue [#1](https://github.com/EgorovM/cpp_snake/issues/1) in [EgorovM/cpp_snake](https://github.com/EgorovM/cpp_snake)
-5. 🗣 Commented on [#130](https://github.com/Monogatari/Monogatari/issues/130) in [Monogatari/Monogatari](https://github.com/Monogatari/Monogatari)
-<!--END_SECTION:activity-->
+and a lot of more...
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
