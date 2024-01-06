@@ -47,6 +47,8 @@
 <br/>
   <a href="https://www.youtube.com/channel/UCRxiZRNjSj9ZFdwIe0vXMrw" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-YouTube?style=for-the-badge&logo=YouTube&color=red"></a>
 
+<br/>
+  <a href="https://vk.com/apploidxxx" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/AppLoidxxx-Vk?style=for-the-badge&logo=vk&color=blue"></a>
 
 </p>
 
