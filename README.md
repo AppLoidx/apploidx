@@ -48,7 +48,7 @@
 
 <br/>
   <a href="https://vk.com/apploidxxx" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/AppLoidxxx-Vk?style=for-the-badge&logo=vk&color=blue"></a>
-  <a href="https://t.me/Ox_CAFE_BABE" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-tg?style=for-the-badge&logo=telegram&color=%232AABEE"></a>
+  <a href="https://t.me/OxOOOFFAB" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-tg?style=for-the-badge&logo=telegram&color=%232AABEE"></a>
 </p>
 
 </div>
