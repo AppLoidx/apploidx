@@ -8,7 +8,7 @@
 <li>
  <b>Name:</b> Arthur</li>
 <li>
-<b>Loves:</b> anime, neko, FPS, phonk, hyperpop
+<b>Loves:</b> anime, neko, games, phonk, hyperpop
 </li>
 <li>
 <b>Hobbys:</b> Video & Music Editing
