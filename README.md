@@ -83,4 +83,11 @@ and a lot of more...
 </div>
 </div>
     </center>
+<h2>Publications and stuff</h2>
+
+<li><a href="https://github.com/AppLoidx/public-bucket/blob/main/publications/MICSECS_2021_paper_71.pdf">Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java | MICSECS 2021</a></li>
+<li><a href="https://kmu.itmo.ru/digests/article/11664">Kupriyanov A.A. (supervisor Nikolaev V.V.) An alternative way to handle expected errors in Java // Collection of abstracts from the Congress of Young Scientists. Electronic edition. – St. Petersburg: ITMO University, [2023]</a></li>
+<li><a href="https://habr.com/ru/articles/480550/">JVM bytecode internals [Ru] (2019)</a></li>
+<li><a href="https://apploidx.github.io/programming-manual/">Java Web-Book for beginners [Ru] (2019)</a></li>
+
 </body>
