@@ -1,13 +1,13 @@
 <body>
 <div>
-<h2 align="center"> 🦊 About 🦊 </h2>
+<h2 align="center"> About 🦊 </h2>
   <div align="center">
 <img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
   </div>
 <li>
  <b>Name:</b> Arthur</li>
 <li>
-<b>Loves:</b> anime, neko, games, phonk, hyperpop
+<b>Loves:</b> anime, games, phonk, hyperpop
 </li>
 <li>
 <b>Hobbys:</b> Video & Music Editing
