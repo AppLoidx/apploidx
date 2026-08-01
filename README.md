@@ -1,10 +1,5 @@
 <div align="center">
 
-# Arthur
-
-**Software engineer.** Backend-heavy, JVM at the core, web when it ships.
-Builds with AI agents against real production work — not demos.
-
 <img alt="Claude Code terminal" src="assets/claude-code.svg" width="640">
 
 <br>
