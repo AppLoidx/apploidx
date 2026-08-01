@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 112" width="640" height="112" role="img" aria-label="Claude Code terminal">
+  <rect x="0" y="0" width="640" height="112" rx="10" fill="#161616"/>
+  <!-- pixel crab -->
+  <g transform="translate(26,22) scale(8)" fill="#f0442c" shape-rendering="crispEdges">
+    <rect x="3" y="0" width="1" height="1"/>
+    <rect x="7" y="0" width="1" height="1"/>
+    <rect x="2" y="1" width="7" height="3"/>
+    <rect x="0" y="2" width="1" height="2"/>
+    <rect x="10" y="2" width="1" height="2"/>
+    <rect x="2" y="4" width="1" height="1"/>
+    <rect x="4" y="4" width="1" height="1"/>
+    <rect x="6" y="4" width="1" height="1"/>
+    <rect x="8" y="4" width="1" height="1"/>
+    <!-- eyes -->
+    <rect x="4" y="2" width="1" height="1" fill="#161616"/>
+    <rect x="6" y="2" width="1" height="1" fill="#161616"/>
+  </g>
+  <g font-family="ui-monospace,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="16">
+    <text x="150" y="36"><tspan fill="#ececec" font-weight="700">Claude Code</tspan><tspan fill="#9e9e9e"> v2.1.220</tspan></text>
+    <text x="150" y="62" fill="#c2c2c2">Fable 5 with medium effort <tspan fill="#7a7a7a">&#183;</tspan> Claude Max</text>
+    <text x="150" y="88" fill="#8a8a8a">~/x</text>
+  </g>
+</svg>
