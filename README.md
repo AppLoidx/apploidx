@@ -1,6 +1,8 @@
 <div align="center">
 
-<img alt="Claude Code terminal" src="assets/claude-code.svg?v=2" width="640">
+<img alt="Claude Code terminal" src="assets/claude-code.svg?v=3" width="640">
+
+<br>
 
 <br>
 
@@ -23,10 +25,12 @@
 
 ## Publications
 
-- [Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java](https://github.com/AppLoidx/public-bucket/blob/main/publications/MICSECS_2021_paper_71.pdf) — MICSECS 2021
-- [An alternative way to handle expected errors in Java](https://kmu.itmo.ru/digests/article/11664) — Congress of Young Scientists, ITMO University, 2023
-- [JVM bytecode internals](https://habr.com/ru/articles/480550/) [ru] — Habr, 2019
-- [Java Web-Book for beginners](https://apploidx.github.io/programming-manual/) [ru] — 2019
+| Year | Title | Venue |
+|:---:|---|---|
+| 2021 | [Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java](https://github.com/AppLoidx/public-bucket/blob/main/publications/MICSECS_2021_paper_71.pdf) | MICSECS |
+| 2023 | [An alternative way to handle expected errors in Java](https://kmu.itmo.ru/digests/article/11664) | Congress of Young Scientists, ITMO |
+| 2019 | [JVM bytecode internals](https://habr.com/ru/articles/480550/) `ru` | Habr |
+| 2019 | [Java Web-Book for beginners](https://apploidx.github.io/programming-manual/) `ru` | self-published |
 
 ## Stats
 
