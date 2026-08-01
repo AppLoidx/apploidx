@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Claude Code terminal" src="assets/claude-code.svg" width="640">
+<img alt="Claude Code terminal" src="assets/claude-code.svg?v=2" width="640">
 
 <br>
 
