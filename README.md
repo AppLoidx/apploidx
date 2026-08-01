@@ -5,6 +5,8 @@
 **Software engineer.** Backend-heavy, JVM at the core, web when it ships.
 Builds with AI agents against real production work — not demos.
 
+<img alt="Claude Code terminal" src="assets/claude-code.svg" width="640">
+
 <br>
 
 <img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
