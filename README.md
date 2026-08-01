@@ -31,10 +31,6 @@ Builds with AI agents against real production work — not demos.
 ## Stats
 
 <div align="center">
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=apploidx&theme=onedark&no-bg=true&no-frame=true&row=1">
-
 <img alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark">
 <img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark">
-
 </div>
