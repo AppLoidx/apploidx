@@ -1,72 +1,40 @@
-<body>
-<div>
-<h2 align="center"> About 🦊 </h2>
-  <div align="center">
-<img src="https://media.tenor.com/FnM5KK8s_boAAAAi/anime-anime-boy.gif" height="165px" align="right">
-  </div>
-<li>
- <b>Name:</b> Arthur</li>
-<li>
-<b>Loves:</b> anime, games, phonk, hyperpop
-</li>
-<li>
-<b>Hobbys:</b> Video & Music Editing
-</li>
-<br><br><br>
-</div>
-<div>
-<h2 align="center">Main Skills 📇</h2>
- <br>
-<p>
-  <div align="center">
-  </div>
-</div>
-<div>
-  <br>
-<p align="center">
-<img alt="Static Badge" src="https://img.shields.io/badge/Java-t?style=for-the-badge&logo=openjdk&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Javascript-t?style=for-the-badge&logo=javascript&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/Next-t?style=for-the-badge&logo=next.js&color=black">
-<br/>
-<img alt="Static Badge" src="https://img.shields.io/badge/Spring-t?style=for-the-badge&logo=spring&color=black">
-<img alt="Static Badge" src="https://img.shields.io/badge/React-t?style=for-the-badge&logo=react&color=black">
-
-</p>
-<br>
-<h2 align="center">           Social life? </h2>
-  <div align="center">
-<img src="https://media1.tenor.com/m/ri-Ue99WZ4UAAAAd/angry-cat.gif" align="right" width="300px">
-  </div>
-<br>
-<p align="center">sociaw things</p>
-<p align="center">
-  <a href="https://t.me/OxOOOFFAB" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/0xCAFEBABE-tg?style=for-the-badge&logo=telegram&color=%232AABEE"></a>
-<br/>
-<br/>
-</p>
-
-</div>
-<br>
-<div>
-  <br>
-<h2 align="center">Stats📝</h2>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=apploidx&theme=onedark&no-bg=true&no-frame=true&row=1)
+# Arthur
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark)
-<br/>
+**Software engineer.** Backend-heavy, JVM at the core, web when it ships.
+Builds with AI agents against real production work — not demos.
 
-<hr>
+<br>
+
+<img alt="Java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+<img alt="Spring" src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+
+<br>
+
+<a href="https://t.me/OxOOOFFAB"><img alt="Telegram" src="https://img.shields.io/badge/0xCAFEBABE-000000?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
 </div>
+
+<br>
+
+## Publications
+
+- [Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java](https://github.com/AppLoidx/public-bucket/blob/main/publications/MICSECS_2021_paper_71.pdf) — MICSECS 2021
+- [An alternative way to handle expected errors in Java](https://kmu.itmo.ru/digests/article/11664) — Congress of Young Scientists, ITMO University, 2023
+- [JVM bytecode internals](https://habr.com/ru/articles/480550/) [ru] — Habr, 2019
+- [Java Web-Book for beginners](https://apploidx.github.io/programming-manual/) [ru] — 2019
+
+## Stats
+
+<div align="center">
+
+<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=apploidx&theme=onedark&no-bg=true&no-frame=true&row=1">
+
+<img alt="Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apploidx&theme=github_dark">
+<img alt="Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apploidx&theme=github_dark">
+
 </div>
-    </center>
-<h2>Publications and stuff</h2>
-
-<li><a href="https://github.com/AppLoidx/public-bucket/blob/main/publications/MICSECS_2021_paper_71.pdf">Returning Extended Information about Errors Enclosed in the Result Object instead of Anticipated Exceptions in Java | MICSECS 2021</a></li>
-<li><a href="https://kmu.itmo.ru/digests/article/11664">Kupriyanov A.A. (supervisor Nikolaev V.V.) An alternative way to handle expected errors in Java // Collection of abstracts from the Congress of Young Scientists. Electronic edition. – St. Petersburg: ITMO University, [2023]</a></li>
-<li><a href="https://habr.com/ru/articles/480550/">JVM bytecode internals [Ru] (2019)</a></li>
-<li><a href="https://apploidx.github.io/programming-manual/">Java Web-Book for beginners [Ru] (2019)</a></li>
-
-</body>
